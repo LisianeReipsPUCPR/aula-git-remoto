@@ -2,4 +2,4 @@ function soma(a, b) {
     return a + b;
 }
 
-console.log(soma(2, 3)); // Output: 5
+console.log(soma(3, 4)); // Output: 7
